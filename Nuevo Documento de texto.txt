@@ -1,0 +1,383 @@
+Diseño de la navegación
+•	Menú hamburguesa
+•	Pestaña
+•	Navegación vertical
+•	Resaltado de ventanas
+•	Miga de pan
+Narrativa lineal sin caminos alternativos
+La narrativa más habitual en los videojuegos. Siendo una narrativa lineal es más fácil centrarse en lo que se quiere contar. Además, al no tener en cuenta otras ramificaciones es más difícil que haya inconsistencias entre diversas partes del guion. En este caso, la persona que juega no puede cambiar la historia a su gusto.
+ Narrativa en embudo
+Es una variante de la anterior. En este caso, en ciertos puntos de la historia se permite a la persona que juega elegir varios caminos distintos pero, estas decisiones no cambian el guion natural de la historia. Por ejemplo, en un momento dado se le pueden ofrecer dos caminos distintos al personaje principal del videojuego. Cada camino puede mostrar desafíos diferentes pero, en cuanto a la historia, se producen los mismos eventos se escoja un camino u otro.
+En este caso, la persona que juega puede escoger entre distintas opciones pero, la historia general del juego no cambia.
+Narrativa de caminos críticos
+Es una variante de la narrativa en embudo. En este caso, hay una historia principal y existen narrativas que ofrecen historias secundarias. Es típico en juegos de mundo abierto como Far Cry 2, The Witcher 2, GTA, etc. Al ser juegos de mundo abierto, es necesario ofrecer a la persona que juega cientos de horas de diversión. Esto se consigue añadiendo muchas historias secundarias a la historia principal del juego.
+Narrativa ramificada
+En este tipo de narrativa la historia ofrece a la persona que juega diferentes alternativas que cambian la historia del juego. Las decisiones se ramifican por lo tanto creando un árbol de decisiones. Esta estructura ayuda a mantener la coherencia de la historia. Por ejemplo, si en la primera decisión del juego el personaje principal pierde o no su gorro, en las ramificaciones de la opción de perder el gorro, el personaje deberá siempre aparecer sin dicho gorro. Teniendo claro los efectos que produce cada decisión, es más sencillo llevar el control de los cambios de cada ramificación para evitar incoherencias en la historia.
+Narrativa no-lineal
+En este caso, los bloques narrativos no guardan relación entre sí, pero sí vale para que el jugador aúne el universo y el tema del juego. Juegos como League of Legends o World of Warcraft son ejemplo de ello. Es característico en los juegos MMO.
+Nivel básico de accesibilidad
+1.	Motor
+•	Permitir cambiar el mapeado de los botones del mando o las teclas del teclado.
+•	Permitir acceder cualquier parte de la interfaz con los mismos botones o teclas usados para jugar el juego. Por ejemplo, poder acceder a las opciones del menú tanto con botones como con el puntero del ratón.
+•	Incluir una opción para ajustar la sensibilidad del ratón.
+•	Intentar que los controles sean sencillos o introducir alternativas más sencillas.
+•	Asegurarse de que los elementos interactivos están bien espaciados y son suficientemente grandes, sobre todo en pantallas pequeñas.
+•	Incluir alternativas para aspectos como vibración de botones.
+2.	Cognitivo
+•	Permitir iniciar el juego de manera sencilla sin tener que navegar por múltiple menús.
+•	Usar una fuente de texto de fácil lectura.
+•	Usar un lenguaje simple y claro.
+•	Usar un formato de texto simple y claro.
+•	Incluir tutoriales interactivos.
+•	Permitir a las personas que juegan navegar por menús de texto a su ritmo.
+•	Evitar imágenes que parpadean o patrones repetitivos.
+3.	Visión
+•	Asegurarse de que ninguna información esencial se transmite solo con un único color.
+•	Si el juego es 3D, usar un campo de visión adecuado. El campo de visión es el espacio de un escenario que se muestra en pantalla.
+•	Usar una fuente de texto por defecto de fácil lectura.
+•	Usa un formato de texto simple y claro.
+•	Ofrecer un gran contraste entre el texto/UI y el fondo.
+•	Asegurarse de que los elementos interactivos están bien espaciados y son suficientemente grandes, sobre todo en pantallas pequeñas.
+4.	Escucha
+•	Ofrecer subtítulos para los discursos más importantes.
+•	Ofrecer controles de volumen y opciones de silenciar el audio para las conversaciones, efectos de sonido y música de fondo.
+•	Asegurarse de que la información importante no se transmite únicamente mediante audio.
+•	Presentar los subtítulos en un formato claro y fácil de leer.
+5.	General
+•	Ofrecer una amplia gama de dificultades de juego.
+•	Ofrecer detalles sobre las opciones de accesibilidad del videojuego.
+•	Asegurarse de que las opciones de accesibilidad se guardan correctamente para futuras ejecuciones del videojuego.
+•	Ofrecer una opción de feedback sobre la accesibilidad ofrecida para recoger la opinión de las personas que juegan.
+DAM
+Una solución DAM se basa en 5 principios:
+•	Creación
+Los módulos de información multimedia se crean o se importan de otras fuentes como cámaras de foto, cámaras de vídeo, escáneres, bases de datos de módulos de información sin copyright, etc.
+•	Codificación e indexación
+Los metadatos y las etiquetas ayudan a agrupar los recursos para facilitar la búsqueda.
+•	Flujo de trabajo
+Los módulos de información tienen un ciclo de vida que cambia con el tiempo. Normalmente tienen diferentes estados como creado, aprobado, archivado o eliminado entre otros.
+•	Control de versiones
+Es muy importante para asegurarse que la versión que se manipula en el flujo de trabajo es siempre la más reciente. Muchas personas pueden editar un mismo módulo de información y, por lo tanto, es esencial asegurar que la última versión se utilice siempre.
+•	Control de acceso
+Es esencial para asegurar que solo las personas autorizadas tienen acceso a los módulos de información. De esa manera, se evita su robo, corrupción accidental o eliminación accidental.
+Carpetas principales
+Cuanto se quiere crear un videojuego es interesante crear diferentes carpetas principales que contendrán los diferentes contenidos necesarios para el proyecto.
+•	GUI: Carpeta que contiene todos los contenidos relacionados con la interfaz gráfica de uso.
+•	Texturas: Carpeta que contiene las texturas que se usan en el videojuego.
+•	Animaciones: Carpeta que contiene las animaciones de los distintos objetos de un videojuego.
+•	Sprites/Modelos 3D: Carpeta que contiene los sprites en 2D o modelos en 3D de los objetos del videojuego.
+•	Sonido: Carpeta que contiene los archivos de sonido del juego.
+•	Código: Carpeta que contiene los archivos de código del juego. En el caso de Unity, serían las carpetas que contienen los scripts.
+Sujetos de propiedad intelectual
+Dentro de los sujetos reconocidos dentro de la propiedad intelectual existen dos grupos principales:
+•	Sujetos de los derechos de autor o autora: Se considera una persona autora a la persona natural que crea alguna obra literaria, artística o científica. Es una condición que no se puede transferir a otra persona.
+•	Sujetos de los otros derechos de propiedad intelectual: Existen otros sujetos que pueden tener derechos también sobre una obra como son artistas intérpretes o ejecutantes, productores de fonogramas, productores de grabaciones audiovisuales, entidades de radiodifusión, etc.
+Derechos
+Dentro de los derechos que componen la propiedad intelectual existen dos tipos:
+1.	Derechos morales
+Dentro de estos derechos se encuentran el derecho al reconocimiento de la condición de persona autora de la obra o del reconocimiento del nombre del artista sobre sus interpretaciones o ejecuciones, y el de exigir el respeto a la integridad de la obra o actuación y la no alteración de las mismas.
+2.	Derechos de carácter patrimonial
+Dentro de estos derechos se encuentran los derechos relacionados con la explotación de la obra o prestación protegida y los derechos compensatorios.
+Copyright
+El copyright es un tipo de propiedad intelectual que da a la persona creadora el derecho de copiar, distribuir, adaptar, enseñar e interpretar un trabajo creativo. La idea principal del copyright es proteger la obra de una persona creadora durante un periodo determinado de tiempo. El tiempo que se mantiene vigente el copyright varia dependiendo del país.
+ 
+Copyleft
+El copyleft es un tipo de propiedad intelectual que permite total libertad para modificar, copiar compartir y distribuir una obra y, además, obliga a todas las obras derivadas a tener la misma condición. Por lo tanto, si una persona modifica una obra con copyleft no puede registrarla con copyright. Está obligada a publicarla con los mismos derechos.
+El copyleft fue por primera vez acuñado por Richard Stallman, creador de la licencia GNU. Él aboga por crear software libre que pueda ser usado y modificado por cualquiera para ajustarlo a sus necesidades pero, asegurando que siempre se mantenga esta condición. Por lo tanto, se obliga a todas las obras derivadas a tener licencia copyleft.
+ 
+Licencias Creative Commons
+Las licencias Creative Commons permite una gran flexibilidad a la hora de establecer una licencia.
+Como ya se ha mencionado en el capitulo anterior, mediante una licencia copyright o copyleft se puede definir los derechos sobre una obra. Aún así, esas dos opciones son limitantes a la hora de ofrecer una licencia adecuada a cada casuística.
+Por ejemplo, una persona puede querer permitir el uso de una obra pero, no permitir ninguna modificación; o puede querer solo usar la obra de manera no-comercial.
+Para dar la mayor flexibilidad posible a la hora de definir los derechos existen las licencias Creative Commons (CC). Además, dichas licencias permiten establecer de una manera visual y clara la licencia de una obra determinada.
+Licencias Creative Commons (CC)
+
+Existen 6 licencias CC distintas que permiten ajustar los derechos sobre una obra determinada. Además, cada licencia tiene una imagen asociada que se puede añadir en una obra para identificar qué se puede hacer con ella de una manera visual y clara.
+CC BY
+Esta licencia permite usar, modificar, adaptar y distribuir una obra siempre que se indique el creador de ella. Se permite el uso comercial.
+ 
+CC BY-SA
+Esta licencia permite usar, modificar, adaptar y distribuir una obra siempre que se indique el creador de ella. Aún así, obliga a las modificaciones a utilizar la misma licencia. Se permite el uso comercial.
+ 
+
+CC BY-NC
+Esta licencia permite usar, modificar, adaptar y distribuir una obra siempre que se indique el creador de ella y solo para objetivos no comerciales.
+ 
+CC BY-NC-SA
+Esta licencia es una combinación de las tres anteriores. La licencia permite usar, modificar, adaptar y distribuir una obra siempre que se indique el creador de ella, solo para objetivos no comerciales y obligando a las modificaciones a tener la misma licencia.
+ 
+CC BY-ND
+Esta licencia permite usar y distribuir una obra siempre que se indique el creador de ella. Por lo tanto no permite ninguna modificación. Se permite el uso comercial.
+ 
+CC BY-NC-ND
+Esta licencia permite usar y distribuir una obra siempre que se indique el creador de ella y para objetivos no comerciales. No se puede modificar la obra.
+ 
+CC0
+Esta última licencia de Creative Commons es la más permisiva de todas. La persona creadora de la obra desiste de la propiedad intelectual de una obra y lo pone disponible para el dominio público.
+ 
+
+Licencias en el desarrollo de software
+En el mundo del desarrollo de software se usan licencias especializadas.
+En el mundo del desarrollo de software se usan diferentes licencias que se adecúan más a dicho ámbito. Normalmente, las empresas que desarrollan aplicaciones utilizan no suelen publicar el código fuente de dichas aplicaciones y lo suelen proteger con licencias de copyright.
+Por otro lado, cuando se publica el código fuente, en aplicaciones de código libre, se suelen usar licencias que permiten modificaciones del código.
+Licencia MIT
+Es una licencia creada por el Instituto Tecnológica de Massachusetts (MIT) y es muy usada en las aplicaciones de código abierto. Simplemente basta con introducir una referencia de la persona creadora del código y la licencia MIT en cualquier modificación. Con la referencia se puede realizar lo que se quiera con la modificación.
+Por ejemplo, una empresa puede usar y modificar una herramienta con licencia MIT en su producto y, después, comercializar dicho producto.
+Licencia Apache 2.0 y Berkeley Software Distribution License (BSD)
+Son parecidas a la licencia MIT pero, permite que las modificaciones tengan una licencia distinta.
+GNU General Public License (GPL)
+Es una licencia copyleft que obliga a todas las modificaciones a mantener la misma licencian que el código original. Esto puede ser un problema para una empresa que quiera usar dicho código en su producto ya que, para mantener la misma licencia original, tendría que publicar su producto con licencia GPL. En ese caso, no podría ocultar el código fuente del producto.
+copias de seguridad.
+Qué datos guardar
+Lo primero es decidir cuáles son los elementos críticos que hay que replicar para evitar la pérdida de información. Lo básico es realizar copias de seguridad de archivos y bases de datos, pero, también se suelen replicar archivos del sistema, máquinas virtuales o cualquier otro elemento que se considere necesario.
+Frecuencia con la que se realizan las copias de seguridad
+Es importante definir cada cuánto se realizan las copias de seguridad. Para un proyecto pequeño puede ser cada semana, mientras que para otros puede ser cada 6 horas. A mayor frecuencia de realización de copias de seguridad, mayor cantidad de almacenamiento o mayor cantidad de recursos de red que hay que utilizar. Este elemento se denomina Recovery Point Objective (RPO) en inglés.
+Tiempo de recuperación
+ Es el tiempo necesario para restablecer los datos y volver a una ejecución normal del sistema. Se denomina Recovery Time Objective (RTO) en inglés.
+Soluciones para realizar copias de seguridad
+Existen diferentes soluciones para realizar copias de seguridad que utilizan diferentes sistemas para replicar los datos. Estos son los más usados.
+1.	Medios extraíbles
+Los datos se replican en medios extraíbles como CDs, DVDs, discos Blu-Ray, discos USBs o discos duros externos. Esto es adecuado para entornos pequeños con un volumen pequeño de copia de datos. Si se necesitan realizar copias de múltiples dispositivos diferentes, como por ejemplo, todos los ordenadores de una empresa, esta opción se vuelve muy compleja y lenta. Además, si se guardan las copias en el mismo lugar físico, una inundación o un incendio pueden destruir las copias de seguridad.
+2.	Aparatos de hardware
+Es un aparato que viene preinstalado con discos duros para guardar copias de seguridad y el software para gestionar dichas copias y la recuperación de los datos. Se instala y se conecta a la red y ya está funcionando. Se suele gestionar mediante una interfaz gráfica. El problema radica en que si el aparato se estropea, se pierde toda la información de las copias.
+
+3.	Almacenamientos en red (NAS), redes de almacenamiento (SAN) y redes compartidas 
+Son discos duros que se encuentran en la red de la organización. Los datos de las copias de seguridad se transmiten mediante la red local y se guardan en dichos almacenamientos. En el caso de ataques a la red o desastres medioambientales, la información se puede perder como en los casos anteriores.
+ 
+Una NAS con dos discos duros para guardar copias de seguridad
+4.	Soluciones software
+Son más difíciles de configurar, pero ofrecen mayor versatilidad y suelen ser más económicas. Además, suelen permitir elegir el tipo de almacenamiento a usar (NAS, disco duro externo, disco USB, etc.).
+5.	Servicios en la nube
+Las copias de seguridad se guardan en servicios en la nube. Muchas empresas de cloud ofrecen servicios de backup-as-a-service (BaaS) que se encargan de gestionar las copias de seguridad de los datos. Basta con instalar agentes en los dispositivos con datos sensibles y programar las copias.
+Aún así, esta solución puede ser costosa y es importante reservar la privacidad de los datos. Por ejemplo, si se guardan copias de datos de clientes es mejor encriptarlos antes de realizar la copia de seguridad para salvaguardar la privacidad de los clientes.
+
+Estrategia 3-2-1
+Esta estrategia es muy usada a la hora de realizar copias de seguridad. Se basa en la siguiente premisa:
+1.	3 copias de los datos
+Los datos originales y dos copias de seguridad. Así se asegura que mínimo una copia de datos sea adecuada y no contenga errores.
+2.	2 tipos diferentes de almacenamiento
+Así se evita el riesgo de fallo relacionado con un almacenamiento en concreto. Por ejemplo, guardar la información en un disco duro y copias en la nube.
+3.	Una copia fuera del lugar físico
+Esto evita la pérdida de datos en caso de desastre medioambiental. Al tener una copia en otro lugar físico, se reduce mucho la probabilidad de pérdida de información.
+
+Diseño en capas
+El diseño en capas permite adecuar un videojuego o entorno interactivo a distintos dispositivos.
+•	Capa de presentación: es la capa con la que interactúa el usuario. Esta capa se encarga de registrar las acciones realizadas por el usuario y presentar las respuestas que recibe de la capa de negocio. Suelen ser interfaces de usuario gráficas.
+•	Capa de negocio: es la capa encargada de procesar las acciones realizadas por el usuario y generar respuestas acordes.
+•	Capa de datos: Es la capa encargada de gestionar los datos.
+
+pantallas de visualización de datos son:
+•	Fatiga visual.
+•	Trastorno musculoesqueletico.
+•	Fatiga mental.
+condiciones ambientales y eficiencia energetica deben ser:
+•	Temperatura 17-27ºC.
+•	Humedad relativa 30-70% (con riesgo eléctrico máximo 50%).
+•	Corrientes de aire inferiores 0,5 m/s.
+•	Iluminación natural complementada con artificial 500-1000 lux.
+•	Disponibilidad agua potable suficiente y de fácil acceso.
+
+elementos que encontramos en un proyecto se encuentran:
+•	TIEMPO: Intervalo tiempo en el cual transcurre el proyecto
+•	ALCANCE: Repercusión del proyecto
+•	COSTE: Recursos necesarios para desarrollar el proyecto
+•	ORGANIZACIÓN Y PLANIFICACIÓN: Actividades a desarrollar y plazos
+•	GESTIÓN DE STAKEHOLDERS: Gestión de intereses de inversores, clientes, etc.
+•	COMUNICACIÓN
+•	ASIGNACIÓN DE TAREAS
+•	RESULTADOS: Es una forma de medición de los objetivos
+
+fases de un proyecto serán:
+EVALUACIÓN INICIAL (INICIO)
+Antes de elaborar y poner en marcha cualquier tipo de proyecto, el primer paso es realizar un análisis exhaustivo de las necesidades detectadas y una reflexión sobre cómo se va a proceder.
+PLANIFICACIÓN
+Una vez detectadas las necesidades  es el momento de la planificación, de diseñar el proyecto. PAra este diseño, habrá que definir los objetivos que se persiguen, las fases, la duración del proyecto, los recursos necesarios, los métodos que se van a utilizar, el seguimiento que se llevará a cabo, la organización de los equipos de trabajo, los costes y la financiación, las estrategias de comunicación, indicadores de evaluación, etc.
+PUESTA EN MARCHA (EJECUCIÓN)
+Tras realizar la planificación, se podrá ejecutar el proyecto. Es el momento de llevar a cabo todos y cada uno de los pasos establecidos previamente y de realizar las estrategias y actividades programadas.
+SEGUIMIENTO (CONTROL)
+El seguimiento y la evaluación continua son fundamentales para asegurar el éxito del proyecto, ya que permiten introducir las mejoras necesarias en cada momento.
+EVALUACIÓN FINAL (CIERRE)
+La última fase, una vez finalizado el proyecto, será la evaluación de los resultados obtenidos, es decir, si los objetivos que se plantearon inicialmente se han alcanzado y en qué grado. Además, en esta fase, lo ideal es realizar un análisis de los resultados en el que se reflejen tanto las dificultades encontradas por el camino como la forma en que se han superado.
+Las dos primeras fases son consideradas por muchos expertos como las más importantes, ya que se cimentarán las bases que regirán durante toda la vida del proyecto
+
+Equipos de desarrollo de proyectos
+Llevar a cabo un proyecto audiovisual multimedia es una tarea compleja que requiere la coordinación de profesionales de diversas disciplinas que se deberán organizar como un equipo compacto de desarrollo, asumiendo cada uno de ellos un rol diferente.
+Se pueden clasificar los roles de un equipo de desarrollo en diferentes grupos. Los roles productivos, organizativos y auxiliares. Cada rol delimita las responsabilidades que tiene cada miembro del equipo y el tipo de tareas que puede llevar a cabo.
+Rol productivo
+Físicamente un producto audiovisual multimedia está formado por unos archivos que contienen recursos como gráficos 2D y 3D, sonido o música, texto y códigos, etc. creando personajes y dotándolos de comportamiento. El rol productivo tiene como función principal crear todos estos archivos, partiendo de unas referencias establecidas por los directores de los respectivos departamentos. El rol productivo está integrado por los programadores y los artistas.
+Los programadores son los encargados de diseñar y producir el código del proyecto, llevando a cabo diferentes tareas. Por ejemplo, integran los recursos que producen el resto de roles productivos al repositorio del proyecto y se aseguran que tengan un formato adecuado asegurando los parámetros de calidad y rendimiento establecidos. 
+Al lado de los programadores, dentro de los roles productivos, los artistas agrupan todos aquellos roles que producen algún tipo de recurso diferente del código. Típicamente se identifica dentro de este término las personas encargadas de la producción de los gráficos, pero también hay artistas de sonido, música y escritores que entrarían dentro de esta categoría. La característica más común a todos ellos es que los roles intermedios no tienen un perfil tan técnico como los programadores.
+Rol organizativo
+Al margen de los roles productivos, se encuentran una serie de roles organizativos que se distinguen porque su función no es tanto producir contenido que se deba integrar en el producto final. Los roles organizativos transmiten al resto de miembros del equipo los parámetros y objetivos que debe seguir el proyecto. El rol organizativo se compone de diseñadores y productores.
+Los diseñadores, mantienen la visión del resultado que se está tratando de asegurar y tratando que los diferentes roles productivos son coherentes con esta visión.
+Por otro lado, los productores son los encargados de gestionar el tiempo, materiales y los recursos humanos asignados a las diferentes tareas.
+Rol auxiliar
+Los roles auxiliares se especializan en realizar algún tipo de función concreta dentro del proyecto. El más importante es el tester, que se podría traducir por “verificador” y asume el papel de un usuario que experimenta con el producto. De esta manera, el equipo auxiliar está integrado por los tester que facilitan que el resto del equipo de desarrollo pueda avanzar en sus tareas sin tener que verificar que éstas están completamente libres de error.
+Estilos organizativos
+Utilizando un pequeño símil, de llevar una pelota por un pasillo de una oficina, existiría una gran diferencia entre llevarla por departamentos a llevarla por equipos.
+Si se hace por departamentos, la pelota debería pasar por todos y cada uno de ellos (con el tiempo invertido que eso supone) y además cada departamento carece de cierta visión y desconocen detalles que aportan otros departamentos.  
+En cambio si circulamos la pelota por equipos, el foco se pone en la pelota y en que ésta avance lo más rápido posible, haciendo que la colaboración fluya.
+Hoy en día las empresas digitales han establecido cambios estructurales hacia modelos de trabajo por equipos.
+Organización por equipos
+En la organización por equipos, cada proyecto es asignado a un equipo que será el encargado de llevar a cabo todas las tareas que genera. En este estilo de trabajo pueden establecerse unas jerarquías entre los diferentes miembros. 
+En este tipo de organización se favorece el contacto entre personas con roles diferentes y se favorece por tanto el trabajo interdisciplinar. El equipo se reunirá con frecuencia y es relativamente sencillo cambiar las prioridades de las actividades o tareas y también realizar el seguimiento.
+Organización por departamentos
+Las personas que trabajan  en la empresa se dividen en grupos denominados departamentos. Cada departamento agrupa a todos los trabajadores que asumen un mismo rol o un rol concreto y se establecen unas jerarquías estrictas y relativamente estáticas. 
+En estos casos los proyectos los asume colectivamente la empresa y se asignan los recursos a cada departamento para realizar las diferentes tareas.
+
+ planning
+Los elementos indispensables y etapas necesarias para la elaboración de un planning incluyen:
+•	Definir objetivos del proyecto
+•	Identificar y priorizar tareas
+•	Definir la duración de las tareas
+•	Establecer plazos y fechas de entrega
+
+GANTT
+•	Gráfico de barras
+•	Usado para proyectos pequeños
+•	Provee de forma precisa la duración y el porcentaje de avance
+•	No se puede representar la interconexión de las tareas que dependen entre sí
+PERT
+•	Diagrama de flujo o de red
+•	Usado para proyectos largos y complejos
+•	Necesita predecir el tiempo
+•	Tiene numerosas redes de interconexión de tareas independientes
+
+La metodología Scrum permite abordar proyectos complejos desarrollados en entornos dinámicos y cambiantes de un modo flexible.
+Perfiles y roles en metodología Scrum
+¿Cuales son perfiles y roles en la metodología Scrum?
+Scrum Team
+El Scrum Team es el equipo encargado de desarrollar y entregar el producto, está compuesta por miembros que colaboran para ser más eficientes  a la hora de abordar y concluir las distintas tareas y procesos.. Su trabajo es imprescindible, siendo una estructura horizontal auto-organizada capaz de auto-gestionarse a sí misma.
+Product Owner
+El Product Owner es responsable de maximizar el valor del producto resultante del trabajo del equipo Scrum. La forma en que se hace esto puede variar ampliamente entre organizaciones, equipos Scrum e individuos.
+
+Los Product Owners maximizan el valor del producto al representar y expresar la voz del cliente durante la duración del proyecto. Ellos son los responsables de entender las necesidades de los clientes, sus motivaciones y qué necesitan. Un producto no es útil para sus clientes si ese producto no cumple con sus expectativas y no satisface sus necesidades.
+Scrum Master
+La responsabilidad clave del Scrum Master es ayudar al equipo a comprender y seguir la teoría de Scrum. Lo hacen ayudando a todos a comprender la teoría y la práctica de Scrum, tanto dentro del Equipo Scrum como de la Organización. Es el responsable de la efectividad del Scrum Team. Lo hacen al permitir que el equipo Scrum mejore sus prácticas, dentro del marco de Scrum.
+
+El Scrum Master se asegura de que se produzcan reuniones importantes, como las Dailys y  tiene la tarea de asegurarse de que la reunión se mantenga dentro del tiempo apropiado.
+Stakeholder
+Los Stakeholders son individuos o grupos que tienen interés e impacto en una organización y en los resultados de sus acciones. Podríamos citar a los empleados, accionistas, clientes, proveedores, gobiernos y comunidades.
+
+Sprint
+Es la unidad básica de trabajo de un equipo Scrum, y la principal característica que marca la diferencia entre Scrum y otros modelos de desarrollo ágil.
+Sprint Planning
+El objetivo de este evento es definir qué se va a hacer en el Sprint y cómo se va a hacer. Se lleva a cabo realizando una reunión y se realiza al inicio de cada Sprint definiendo cómo se va a enfocar el proyecto a partir de las etapas y plazos del Product Backlog.
+Daily Scrum
+El objetivo del Scrum diario es evaluar el progreso y la tendencia hasta el final del Sprint, sincronizando las actividades y creando un plan para las próximas veinticuatro horas. Se trata de una breve reunión que tiene lugar diariamente durante el periodo del Sprint. El Scrum Master debe tratar de resolver los problemas u obstáculos que surjan.
+Sprint Review
+Se centra en mostrar qué trabajo se ha completado con respecto al Product Backlog para futuras entregas. Se revisa el Sprint finalizado y debe haber un avance claro y tangible en el producto para poder presentarlo al cliente.
+Sprint Retrospective
+El equipo revisa los objetivos cumplidos del Sprint finalizado, toma nota de lo bueno y lo malo para no volver a repetir los errores. Esta etapa sirve para implementar mejoras desde el punto de vista del proceso de desarrollo. El objetivo de la retrospectiva es identificar posibles mejoras del proceso y generar un plan para implementarlas en el siguiente Sprint.
+
+PRUEBAS
+Es la comprobación dinámica del correcto comportamiento del software, identificando los problemas y defectos. Las pruebas se suelen realizar en diferentes partes del desarrollo y al final.
+VERIFICACIÓN
+Es el proceso de verificación de los requisitos establecidos al inicio del proyecto. Es mejor que dicha verificación la realice un equipo diferente al equipo desarrollador.
+En esta fase, simplemente se comprueba la correcta implementación de los requisitos establecidos al inicio. Se suelen llamar pruebas de versión alfa.
+VALIDACIÓN
+Es el proceso final para determinar si el proyecto verificado cumple las expectativas de las personas jugadoras o no. Estas validaciones se suelen llamar betas y pueden ser abiertas al público o cerradas a una entidad exterior.
+
+Planificación de las pruebas
+La planificación de las pruebas abarca:
+Matriz de responsabilidades
+Se define con perfiles genéricos o inclusive con el equipo de trabajo si ya se conoce cuál es el que será asignado. Las tareas del plan de pruebas deben estar alineadas con las habilidades y conocimientos de cada persona.
+Cronograma
+Para elaborar un cronograma real, es importante definir actividades críticas como por ejemplo los tiempos de instalación de versiones en los entornos de pruebas, pruebas de validación de ambientes antes de comenzar a hacer las pruebas y las iteraciones por incidencias, que es el tiempo invertido en volver a probar los casos de prueba fallidos.
+Premisas
+Son las condiciones que deben cumplirse para que el cronograma sea realizable, estas se determinan a partir de la documentación de entornos y de los requisitos de personal. Por ejemplo disponibilidad de ciertos entornos, disponibilidad de personal con algún conocimiento técnico específico, la metodología que se va a utilizar, premisas que deben cumplirse para poder aplicarla.
+
+Riesgos y planes de respuesta
+La gestión de riesgos en pruebas es muy similar a la gestión de riesgos en proyectos. Para el Software Testing, los riesgos por lo general están vinculados con factores como:
+•	Posibles dificultades en la disponibilidad de entornos.
+•	Pruebas que dependen de factores externos al proyecto y la organización.
+•	Disponibilidad de personal con conocimientos especializados en alguna herramienta.
+•	Dependencias con otros proyectos.
+•	Posibilidad de que alguna premisa no se cumpla
+
+Pruebas de rendimiento y compatibilidad
+En el campo de las pruebas, hay métodos que son usados con el objetivo de encontrar defectos y evaluar la calidad del producto. Dos de esos métodos (los principales) son los métodos de caja blanca (White box testing) y caja negra (Black box testing).
+PRUEBAS DE CAJA BLANCA (White box testing)
+También se le conoce como Clear box testing, Glass box testing, Transparent box testing o Structural box testing. En este tipo de prueba se analiza el código y la estructura del producto. La finalidad principal de este método es detectar debilidades potenciales en forma de un código mal escrito o incluso medidas de seguridad no sólidas.
+
+Este método se utiliza en la fase pruebas de unidad, aunque también se puede utilizar en otras fases como en la fase de pruebas de sistema o de integración. El evaluador tiene todos los “privilegios” de información relacionados a los sistemas, lo que significa que tienen credenciales, códigos fuente, mapas de infraestructura, etc. es decir, todo lo necesario para atacar al sistema.
+ 
+PRUEBAS DE CAJA NEGRA (Black box testing)
+Una prueba de penetración de caja negra o también conocida es la que se lleva a cabo cuando un Hacker no tiene información previa sobre las políticas de seguridad, el diagrama de arquitectura, los códigos de fuente, etc. Este método imita las acciones de un atacante cibernético real, y el elemento es estudiado desde el punto de vista de las entradas que recibe y las salidas o respuestas que produce, sin tener en cuenta el funcionamiento interno.
+
+Los probadores de sombrero blanco se hacen pasar por un atacante común sin privilegio de acceso alguno. Simula un ataque cibernético real, por lo que ofrece una visión realmente óptima de las vulnerabilidades del sistema. El probador crea un mapa de ataque y todos los potenciales puntos de entrada (como un Hacker real) para la observación y análisis necesario para atacar al sistema.
+ 
+Pruebas de interacciones o de evaluación de la robustez
+PRUEBA DE UNIDAD
+Será objeto de estas pruebas verificar la funcionalidad y estructura de cada componente individualmente una vez que han sido codificados. Para poder llevar a cabo estas pruebas es preciso:
+•	Garantizar que el proceso de codificación, las revisiones asociadas y la prueba de unidad sean conducidos de acuerdo a los estándares y procedimientos establecidos en el plan de proyecto
+•	Asegurar la incorporación de los resultados de las revisiones en las entregas de esta fase.
+•	Verificar la implementación de las acciones correctivas derivadas.
+•	Comprobar la utilización de la especificación de procedimientos y casos de prueba.
+•	Corroborar la documentación del código y de los resultados.
+PRUEBA DE INTEGRACIÓN
+Será objeto de estas pruebas verificar el correcto ensamblaje de los módulos que componen la aplicación, una vez han sido probados unitariamente, con el fin de comprobar que interactúan correctamente a través de sus interfaces internas y externas, que cubren la funcionalidad establecida y se ajustan a los requisitos no funcionales.
+
+Las pruebas de integración deberán asegurar que:
+•	El funcionamiento integrado de módulos interdependientes esté libre de errores.
+•	Probar todas las dependencias de los módulos.
+•	Probar el flujo de control y el flujo de datos a través de todas las capas.
+PRUEBA DEL SISTEMA
+Esta prueba se realiza una vez se han hecho las pruebas de unidad e integración, su objetivo es ejercitar el software de manera profunda, poniendo atención en funciones como la seguridad, el desempeño, la exactitud, la confiabilidad, las interfaces externas o los dispositivos de hardware, entre otros. Dentro de estas pruebas se encuentran:
+•	PRUEBA DE RECUPERACIÓN: Se fuerza el fallo del software y se realiza una recuperación del sistema para comprobar que se recupera correctamente.  
+•	PRUEBA DE SEGURIDAD: Se trata de forzar la seguridad del sistema para comprobar que el software está bien protegido. Validan los servicios de seguridad de una aplicación e identifican los posibles fallos y debilidades.
+•	PRUEBA DE RESISTENCIA:Se fuerza el sistema para exprimir su máximo rendimiento y que demanden gran cantidad de recursos.
+
+Equipo de pruebas
+¿Cuáles son los roles dentro de un equipo de pruebas?
+Test lead
+Es la persona encargada de la supervisión de las pruebas en el proyecto. También es el responsable de los procesos utilizados para garantizar la calidad de la entrega. Sus funciones principales son:
+•	Coordinar el equipo de pruebas
+•	Representar al equipo de pruebas en reuniones
+•	Generar de informes de las pruebas
+•	Identificar de riesgos, análisis y mitigación
+•	Presentar informes sobre cambios al Test manager
+•	Gestión del repositorio
+Test manager
+Se podría considerar como “Jefe de proyecto” y es la persona responsable de las pruebas de una manera global, gestionando el proceso en sus diferentes fases. Sus funciones principales son:
+•	Redactar el plan de pruebas
+•	Mantener actualizado el plan de pruebas
+•	Monitorear el progreso de la prueba
+•	Tomar decisiones sobre la entrada y salida de una prueba
+•	Tomar decisiones sobre la suspensión/reanudación de las pruebas
+•	Tomar decisiones sobre la estrategia a utilizar en las pruebas
+Business analyst
+Es la persona encargada de encontrar oportunidades clave para el desarrollo del negocio, recopilando información relevante, en este caso a través de las pruebas, para mejorar el producto. Sus funciones principales son:
+•	Identificar escenarios adecuados para el test de aceptación de usuario
+•	Crear casos de pruebas para los test de aceptación de usuario
+•	Realizar pruebas funcionales
+•	Trabajar con el cliente para definir los requerimientos del negocio
+Developers
+Se les conoce como los desarrolladores del software, es la persona experta en escribir código e idear el conjunto de secuencias de órdenes que llevan al sistema informático a realizar una acción concreta. Sus funciones principales son:
+•	Realizar pruebas unitarias
+•	Ejecutar pruebas unitarias
+•	Revisar el código
+•	Crear los casos y los datos de prueba del sistema
+•	Administrar el tiempo para poder completar todas las tareas
+Tester
+Es el evaluador del sistema, la persona que examinará el producto. Sus funciones principales son:
+•	Ejecutar el plan de pruebas
+•	Buscar, informar y seguir errores descubiertos durante las pruebas
+•	Analizar los resultados
+•	Realizar el control de la conformidad
+5.2Beta testing
+El beta testing es la fase final que se usa para redondear el producto final.
+La fase de pulido final de un videojuego es la fase beta. Durante dicha fase, el videojuego deja de incluir nuevos elementos y se dedica el tiempo a pulir errores que no se hayan detectado todavía, mejorar la experiencia de las personas jugadoras, mejorar pequeños detalles, etc.
+Por lo tanto, en esta fase es esencial contar con un grupo nutrido de personas jugadoras, a poder ser bien cualificadas, que ayuden a detectar el máximo posible de errores y fallos que enturbian la experiencia de juego.
+Beta tester
+
+El beta tester es la persona encargada de probar un videojuego y detectar los fallos y errores para que el equipo desarrollador pueda subsanarlos. Estas personas suelen estar cualificadas y están acostumbradas a llevar al límite un juego para detectar posibles fallos y errores.
+Por ejemplo, suelen testar las colisiones en objetos sensibles como puertas, realizar acciones poco obvias cuando se supone que no se deben realizar (durante una cinemática), intentar rebasar los límites del escenario, etc.
+Como nota curiosa, en este artículo(opens in a new tab) diversos desarrolladores hablan de la dificultad de implementar correctamente las puertas en los videojuegos.
+Tipos de betas
+
+A la hora de realizar los beta testing, existen dos variedades principales:
+•	Betas cerradas: Las betas cerradas son pruebas que se realizan dentro del estudio de desarrollo del videojuego y solo tienen acceso a la prueba entidades o personas elegidas por la desarrolladora. En estos casos, se suelen usar beta testers o empresas de testing especializadas en dicho trabajo.
+•	Betas abiertas: Las betas abiertas se realizan abriendo el producto a un público exterior más amplio. Normalmente, las empresas suelen repartir a determinadas personas o al azar entre un número de personas copias del juego. En esta fase se suelen realizar pruebas de estres en el caso de videojuegos online ya que permiten testar el juego con múltiples personas jugadoras al mismo tiempo.
+Normalmente, las empresas desarrolladoras suelen utilizar las dos variedades principales de beta testing combinadas. De esa manera, se pueden pulir detalles en un entorno más controlado, en la beta cerrada y, después, abrir el videojuego a un abanico mayor que permite realizar pruebas de estres sobre una base ya bastante sólida.
+
