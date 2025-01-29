@@ -1,1 +1,2 @@
 Este es un archivo de texto plano. No tiene formato.
+SELECT * FROM WHERE ; DELETE FROM WHERE; UPDATE armour SET defense=2 WHERE autor_id=2; INSERT INTO autores(nombre) VALUE ("leire")
